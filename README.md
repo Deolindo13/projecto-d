@@ -11,25 +11,25 @@ possam atingir outras regiões e consigam angariar novos ouvintes conquistando a
 pretende.
 
 # COMO VAI FUNCIONAR?
-1º Criar conta(A primeira funçã será a criação de conta que permitira os usuarios abrirem uma conta e as suas informações será guardada na nossa base de dados);
+1º Criar conta(A primeira função será a criação de conta que permitira os usuarios abrirem uma conta e as suas informações será guardada na nossa base de dados);
 
-2º Login( Ou unicio de sessão, que a confirmação de dados pessoais que foram posta ao criar a conta);
+2º Login( Ou inicio de sessão, que a confirmação de dados pessoais que foram posta ao criar a conta);
 
-3º Recuperação da palavra passe( Caso o usuario esqueça sua palavra passe será enviado no seu emaeil aou no numéro a forma de recuperação);
+3º Recuperação da palavra passe( Caso o usuario esqueça sua palavra passe será enviado no seu email ou no número a forma de recuperação);
 
-4º Pucuarar de musicais( A procura de musiocais ou artista será feita na barra de pesquisa para que se possa encontrar o que pretendemos);
+4º Procura de musicas( A procura de musicas ou artista será feita na barra de pesquisa para que se possa encontrar o que pretendemos);
 
 5º Visitar PERFIL( Será possivel tambem visitar perfis para que se tenha acesso as obras do do mesmo);
 
 6º Seguir( Tambem será possivel seguir perfis pretendidos);
 
-7º Editar conta( Caso haja a necessidade de editar conta como trocar a passe ou emaeil ou numéro que na qual foi criada a conta);
+7º Editar conta( Caso haja a necessidade de editar conta como trocar a passe ou email ou numéro que na qual foi criada a conta);
 
 8º Editar a descrição ou perfil( Caso haja a necessidade de editar o perfil como a foto ou a descrição);
 
-9º Compartilhar( Compartilhas links musicais ou perfis de outro usuarios em outras redes vizinhas);
+9º Compartilhar( Compartilhar links musicais ou perfis de outros usuarios em outras redes vizinhas);
 
-10º LIKE( Dar like nas musicais favoritas);
+10º LIKE( Dar like nas musicas favoritas);
 
 # INTERFACES;
 
@@ -50,5 +50,22 @@ pretende.
 
 
 ![p6](https://github.com/user-attachments/assets/fea0ecad-78ed-4f5f-ae57-270e7dc1b1b7)
+
+
+# FERRAMENTAS QUE PODEM SER USADAS;
+1º MAMP 
+
+2º SQL
+
+3º JAVA
+
+DISCORD
+
+
+
+
+# CONCLUSÃO
+
+Em resumo, o aplicativo musical oferece uma experiência única e personalizada para os amantes da música. Com uma vasta biblioteca de faixas, playlists personalizadas, recomendações baseadas em inteligência artificial e a capacidade de conectar usuários, a plataforma torna-se um ponto de encontro para a descoberta musical. Além disso, a interface intuitiva e acessível proporciona uma navegação fácil, permitindo que os usuários explorem novos gêneros e artistas com facilidade. Através de funcionalidades como download offline e integração com redes sociais, o aplicativo não só enriquece o cotidiano dos usuários, mas também promove uma comunidade engajada. Em um mundo onde a música é uma parte essencial da vida, este aplicativo se destaca como uma ferramenta indispensável para todos os aficionados por música.
 
 

@@ -1,5 +1,5 @@
 # projecto-deosound
-Deosound é um aplivativo leitor de musica, que oferece uma experiência completa para os amantes de de musicas
+Deosound é um aplivativo leitor de musica, que oferece uma experiência completa para os amantes de  musicas
 Permitindo streaming upload de faixas musicais, fazer com que artistas das novas gerações possam ter a visibilidade
 e a facilidade de ter uma expanção musical e uma experiência totalmente facil de fazerem as suas divulgações
 tendo assim algumas restrições como a segurança do direito autorais e uma segurança nas suas credenciais 

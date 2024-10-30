@@ -1,33 +1,33 @@
 # projecto-deosound
-Deosound é um aplivativo leitor de musica, que oferece uma experiencia completa para os amantes de de musicas
-Permitindo streaming uploadde faixas musicais, fazer com que artistas das novas gerações possam ter a visiblidade
-e a facilidade de ter uma expanção musical e uma experiencia totalmente facil de fazerem as suas divulgações
+Deosound é um aplivativo leitor de musica, que oferece uma experiência completa para os amantes de de musicas
+Permitindo streaming upload de faixas musicais, fazer com que artistas das novas gerações possam ter a visibilidade
+e a facilidade de ter uma expanção musical e uma experiência totalmente facil de fazerem as suas divulgações
 tendo assim algumas restrições como a segurança do direito autorais e uma segurança nas suas credenciais 
-Fazendo com que as pessoas sintam-se seguras e confortaveis com os seus dados pessoas.
+Fazendo com que as pessoas sintam-se seguras e confortáveis com os seus dados pessoas.
 # OBJECTIVO
-O nosso maior objectivo é entrar no mercado musical,proporcionando uma plataforma que atende tanto o usuario,
+O nosso maior objectivo é entrar no mercado musical,proporcionando uma plataforma que atende tanto o usuário,
 que buscam ouvir boas musicas e quanto os que desejam compartilhar suas criações, fazendo com que os cantores
 possam atingir outras regiões e consigam angariar novos ouvintes conquistando assim uma expanção maior do que se
 pretende.
 
 # COMO VAI FUNCIONAR?
-1º Criar conta(A primeira função será a criação de conta que permitira os usuarios abrirem uma conta e as suas informações será guardada na nossa base de dados);
+1º Criar conta(A primeira função será a criação de conta que permitira os usuários abrirem uma conta e as suas informações será guardada na nossa base de dados);
 
 2º Login( Ou inicio de sessão, que a confirmação de dados pessoais que foram posta ao criar a conta);
 
-3º Recuperação da palavra passe( Caso o usuario esqueça sua palavra passe será enviado no seu email ou no número a forma de recuperação);
+3º Recuperação da palavra passe( Caso o usuário esqueça sua palavra passe será enviado no seu e-mail ou no número a forma de recuperação);
 
 4º Procura de musicas( A procura de musicas ou artista será feita na barra de pesquisa para que se possa encontrar o que pretendemos);
 
-5º Visitar PERFIL( Será possivel tambem visitar perfis para que se tenha acesso as obras do do mesmo);
+5º Visitar PERFIL( Será possível tambem visitar perfis para que se tenha acesso as obras  do mesmo);
 
-6º Seguir( Tambem será possivel seguir perfis pretendidos);
+6º Seguir( Também será possível seguir perfis pretendidos);
 
-7º Editar conta( Caso haja a necessidade de editar conta como trocar a passe ou email ou numéro que na qual foi criada a conta);
+7º Editar conta( Caso haja a necessidade de editar conta como trocar a passe ou e-mail ou número que na qual foi criada a conta);
 
 8º Editar a descrição ou perfil( Caso haja a necessidade de editar o perfil como a foto ou a descrição);
 
-9º Compartilhar( Compartilhar links musicais ou perfis de outros usuarios em outras redes vizinhas);
+9º Compartilhar( Compartilhar links musicais ou perfis de outros usuários em outras redes vizinhas);
 
 10º LIKE( Dar like nas musicas favoritas);
 
